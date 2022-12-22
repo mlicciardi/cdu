@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; cdu</title>
-	<atom:link href="http://https://github.com/mlicciardi/cdu/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>http://https://github.com/mlicciardi/cdu/</link>
+	<atom:link href="http://mlicciardi.github.io/cdu/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>http://mlicciardi.github.io/cdu/</link>
 	<description></description>
 	<lastBuildDate>Thu, 22 Dec 2022 16:30:11 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>http://https://github.com/mlicciardi/cdu/hello-world/</link>
-					<comments>http://https://github.com/mlicciardi/cdu/hello-world/#comments</comments>
+		<link>http://mlicciardi.github.io/cdu/hello-world/</link>
+					<comments>http://mlicciardi.github.io/cdu/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[cdu-admin]]></dc:creator>
 		<pubDate>Thu, 22 Dec 2022 16:30:11 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">http://https://github.com/mlicciardi/cdu/?p=1</guid>
+		<guid isPermaLink="false">http://mlicciardi.github.io/cdu/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://https://github.com/mlicciardi/cdu/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>http://mlicciardi.github.io/cdu/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

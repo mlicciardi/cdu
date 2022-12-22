@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Sample Page	</title>
-	<atom:link href="http://https://github.com/mlicciardi/cdu/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>http://https://github.com/mlicciardi/cdu/</link>
+	<atom:link href="http://mlicciardi.github.io/cdu/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>http://mlicciardi.github.io/cdu/</link>
 	<description></description>
 	<lastBuildDate>Thu, 22 Dec 2022 16:30:11 +0000</lastBuildDate>
 	<sy:updatePeriod>
